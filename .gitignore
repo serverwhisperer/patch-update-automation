@@ -1,0 +1,85 @@
+﻿# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.parcel-cache/
+.cache/
+dist/
+build/
+coverage/
+.vite/
+.next/
+.nuxt/
+.svelte-kit/
+storybook-static/
+*.tsbuildinfo
+
+# Electron
+out/
+release/
+*.asar
+.DS_Store
+
+# Logs
+logs/
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Env / Secrets
+.env
+.env.*
+!.env.example
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+coverage.xml
+htmlcov/
+.tox/
+.venv/
+venv/
+ENV/
+env/
+.ipynb_checkpoints
+.pyre/
+.pytype/
+.dmypy.json
+
+# FastAPI/Uvicorn artifacts
+uvicorn.log
+
+# Test/Reports
+.coverage
+.cache/
+.junit/
+reports/
+
+# Misc
+*.bak
+*.orig
+*.rej

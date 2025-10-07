@@ -1,0 +1,8 @@
+flask
+requests
+pyyaml
+watchdog
+psutil
+schedule
+pywinrm
+uvicorn[standard] fastapi

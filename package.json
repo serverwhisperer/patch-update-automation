@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "electron": "electron ."
+  },
+  "dependencies": {
+    "react-router-dom": "^6.30.1"
+  }
+}
